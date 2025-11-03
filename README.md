@@ -3,12 +3,6 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
 
-## WELCOME!
-
-This repo is specifically set up for me to operate a sort of blog. I will talk about my projects and ideas as well as how my stuff is going.
-
----
-
 __*11/2/25*__
 
 ### dev blog idea / catching up to now
