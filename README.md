@@ -3,6 +3,18 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
 
+__*11/5/25/*__
+
+## Mobile day
+
+Right now I am writing this on the mobile website with a bluetooth keyboard and mouse. Not on Samsung DeX like I would think I normally would. I enjoy samsung DeX but I seem to get more utility out of my computational world by having more of an ecosystem rather than a single device.
+
+This is more a test of this keyboard because I haven't used this keyboard in quite a while. At any rate, I enjoy this so I can do chess puzzles on mobile with my mouse, have my main PC up, and have my other laptop working movies and videos on the side.
+
+As a result of this test, this keyboard is okay, but I think I definitely want a better on ue to the locations this one folds into.
+
+---
+
 __*11/4/25*__
 
 ## Physical Tech projects and Samsung DeX
