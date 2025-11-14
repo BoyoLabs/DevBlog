@@ -3,6 +3,18 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
 
+__*11/14/25*__
+
+## BUSY!
+
+I have been so incredibly busy lately, and mostly given up on being 100% mobile. I have instead focused my energy on something more tangible and practical in 3d design and printing. I definitly have been so busy at work that I haven't even had time to come here and update this transition, but hey, I'm here when I can screaming into the void. I also am not sure how long I plan on letting this dev blog to go on -- I might just do a single update and delete everything else at some point? But that defeats the purpose -- for me its to look back at what I was thinking about while I was working on things. Regardless, Ive made an update and there is now a repository for my 3d designs all linked. I don't exactly feel like adding them to more known repositories -- mainly because it creates more of a hassle than just sharing a link, especially when my github serves as my more complete identity.
+
+Work has been so incredibly busy that I haven't had much time to do anything on here. I have done 2 designs since I got so incredibly busy. And I did finally cave and buy an intel arc b580 for design reasons mainly -- also slicers get pretty slow on preview with so many more polygons added after the actual slicing is done.
+
+Any time I do a 3d design, though, I will add it to the readme in the 3d design repo. So, go check it out, theres already quite a few that I have been willing to share in there.
+
+---
+
 __*11/5/25/*__
 
 ## Mobile day
