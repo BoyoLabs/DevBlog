@@ -5,11 +5,17 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 __*11/16/25*__
 
-## Driver Updates
+## Driver Updates/Conevex Fillet Gauge
 
 I updated my MX Linux drivers in prep for my Intel Arc B580. It will be arriving on the 19th making designing and printing projects massively better. After slicing an model, I like to look at it to see what might need changing, but it always chugs on my integrated graphics. After a lot of discussion with my coworkers, I stuck with my original idea of the B580 because of the linux driver support and price point for being new. My coworkers suggested the GTX 1080 -- which is still, to this day, a beautiful card. But I wanted something new, and future proof for what I do, especially on linux. Which meant the B580 was probably the best choice. Getting it at $250 USD, in white (matches my build,) on sale with a bundled gift (which I already gave away) with RGB -- IN STOCK? I couldn't say no.
 
 Now I just have to wait for it to arrive and I can install it after doing all the prep work of updating the drivers and everything and I *should* be able to just plug it in and be off to the races. Designing and printing should be a BREEZE with this thing.
+
+I also added a new design to my portfolio -- a convex fillet gauge. I printed a concave fillet gauge I really like, but there are often times where I am looking to design something to fit into something else that already exists (like an altoids tin or something) and I needed a gauge that would tell me what I need the curve to be to fit inside of that, so I designed a fillet gauge to estimate that better, taking design ideas from my existing favorite gauge. This will allow me to design more efficiently and accurately!
+
+If you're interested, check out my 3d designs repo.
+
+Okay, enough shouting into the void today.
 
 ---
 
