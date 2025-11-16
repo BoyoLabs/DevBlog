@@ -3,6 +3,16 @@ Dev log? Dev blog? Whatever. This is where I post a blog of sorts.
 
 ---
 
+__*11/16/25*__
+
+## Driver Updates
+
+I updated my MX Linux drivers in prep for my Intel Arc B580. It will be arriving on the 19th making designing and printing projects massively better. After slicing an model, I like to look at it to see what might need changing, but it always chugs on my integrated graphics. After a lot of discussion with my coworkers, I stuck with my original idea of the B580 because of the linux driver support and price point for being new. My coworkers suggested the GTX 1080 -- which is still, to this day, a beautiful card. But I wanted something new, and future proof for what I do, especially on linux. Which meant the B580 was probably the best choice. Getting it at $250 USD, in white (matches my build,) on sale with a bundled gift (which I already gave away) with RGB -- IN STOCK? I couldn't say no.
+
+Now I just have to wait for it to arrive and I can install it after doing all the prep work of updating the drivers and everything and I *should* be able to just plug it in and be off to the races. Designing and printing should be a BREEZE with this thing.
+
+---
+
 __*11/15/25*__
 
 ## Community Chess Challenge/fest
