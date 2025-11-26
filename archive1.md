@@ -1,4 +1,4 @@
-*This is an archive of previous entries from 11/2/25 - 11/25/25*
+*This is an archive of previous entries from 11/2/25 - 11/25/25 this should be the only archive*
 
 __*11/25/25*__
 
